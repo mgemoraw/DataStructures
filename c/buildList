@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+gcc -Wall -Werror linkedList.c -o LList
+
